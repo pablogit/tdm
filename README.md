@@ -40,4 +40,4 @@ The script could be executed from shell or directly by double click (Windows). T
 * The original PDFs are encrypted and copied to a new folder called "ORIGINAUX_CRYPTES"
 * The name of patient is stracted form PDF following some known structures in the text. The PDF is then renamed with the 3 first letters of the patient family name
 * The scripts generates a table (CSV as format and ";" as separator) with the details by term in the list. The sort order of colums is random. The fist line contains the names of each term in the list.
-* Ther's a line with the header "_filename" and the name of each term. The column "_total" contains the total number of "occurencies" for each terms . The "_ntotal" column contains the total number of "occurencies" for all the terms
+* Ther's a line with the header "_filename" and the name of each term. The column "_total" contains the total number of "occurencies" for each term in each file. The "_ntotal" column contains the total number of different terms found in each PDF
