@@ -1,0 +1,155 @@
+ ca 
+ cis 
+ g1 
+ g2 
+ g3 
+ gy 
+ h sil 
+ hsil 
+ lcis 
+ lmm 
+ m0 
+ n+ 
+ n0 
+ n1 
+ neo 
+ ptis 
+ rab 
+ susp 
+ t2 
+ t3 
+ t4 
+ tnm 
+ turv 
+adenocarcinoma
+adenocarcinome
+adenoide
+adenome
+adenomes
+adjuvant 
+agressive
+bague
+bas grade
+basaliome
+basaloide
+basocellulaire
+blue nevus
+bowen
+brachy
+brca
+canalaire
+carci
+chimio
+choriocarcinome
+cin iii
+cin2
+comedocarcinome
+cribriforme
+curage
+curie
+dcis
+dentele
+dermatofibrosarcome
+differenciation
+differencie
+endobrach
+epitheliome
+expans
+fibroadenoma
+fibroadenome
+gleason
+gliome
+hepatocarcinome
+histiocytose
+ileostomie
+in situ
+infiltrant
+infiltration
+intracanalaire
+invasif
+invasion
+invasive
+irradi
+leiomyosarcome
+leucem
+lymphadenectomie
+mastectomie
+mediastinal
+melanoma
+melanome
+mesotheliome
+metastase
+metastatique
+mgus
+microcarcinome
+micrometastase
+mitotique
+multifocal
+myosarcome
+nephrectomie
+neuroendocrine
+neuroepitheliale
+nevus
+oestrogene
+opacite
+orchidectomie
+osseuses
+pancreatectomie
+paragangliome
+patey
+perirectal
+pheochromocytome
+phyllode
+pleomorphe
+pn0
+pn1
+pn2
+pnx
+progesterone
+prostatectom
+pt1
+pt1a
+pt1b
+pt1c
+pt2
+pt2a
+pt3
+pt3a
+pt3b
+pt4
+pt4a
+radicale
+radio oncologie
+radiotherapie
+recidive
+regression
+rhabdomyosarcome
+sarcoma
+sarcomatoid
+seminoma
+seminome
+sentinelle
+situ
+spinaliome
+spinocellulaire
+t1a
+t1b
+t1c
+t2a
+t3a
+t3b
+t4a
+tamoxi
+teratocarcinome
+teratome
+therap
+trichoepitheliome
+tubulaire
+tubular adenoma
+tubuleux
+tubulovilleux
+tumeur
+tumor
+verruqueux
+villeux
+vitelline
