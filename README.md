@@ -3,7 +3,7 @@
 ## Script python to search multiple terms in multiple PDFs
 
 ### Authors
-  * Pablo Iriarte, CHUV/BiUM/IUMSP 2016 - pablo@irairte.ch
+  * Pablo Iriarte, UNIGE/CHUV/IUMSP/BiUM 2018 - pablo@irairte.ch
   * Jan Krause, CHUV/BiUM 2014 - jan@krause.net
 
 ### Summary
