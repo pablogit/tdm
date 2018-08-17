@@ -46,9 +46,9 @@ The script could be executed from shell or directly by double click (Windows). T
 This program was created and evluated at the Registre Vaudois des Tumeurs (RVT, https://www.iumsp.ch/rvt) situated in Lausanne, Switzerland. The results of the evaluation was presented in a poster at the 2017 GRELL annual meeting in Brussels: https://www.grell-network.org/2017-brussels
 
  - Title: **Evaluation of an automated tool to identify positive cases from unstructured, free-text pathology reports in a Swiss Cancer Registry**
- - Authors: Pablo Iriarte^1 ; Rafael Blanc Moya^2 ; Nadia Elia^3
-^1 Institute for Social and Preventive Medicine, University of Lausanne, Switzerland.
-^2 Vaud Cancer Registry, Institute for Social and Preventive Medicine, University of Lausanne, Switzerland
-^3 Institute of Global Health, University of Geneva, Geneva, Switzerland
+ - Authors: Pablo Iriarte<sup>1</sup> ; Rafael Blanc Moya<sup>2</sup> ; Nadia Elia<sup>3</sup>
+<sup>1</sup> Institute for Social and Preventive Medicine, University of Lausanne, Switzerland.
+<sup>2</sup> Vaud Cancer Registry, Institute for Social and Preventive Medicine, University of Lausanne, Switzerland
+<sup>3</sup> Institute of Global Health, University of Geneva, Geneva, Switzerland
  - Abstract: https://github.com/pablogit/tdm/blob/master/Abstract_PI_RBM_NE.pdf
  - Poster in PDF format: https://github.com/pablogit/tdm/blob/master/Poster_RVT_bruxelles_2017_final.pdf
