@@ -48,7 +48,7 @@ from pdfminer.pdfparser import PDFParser
 from pdfminer.layout import LAParams, LTTextBox, LTTextLine, LTFigure, LTImage
 
 # Define the master password for the PDF encryption
-mypass = 'tvr16'
+mypass = 're30fr9243&Gk'
 
 def with_pdf (pdf_doc, pdf_pwd, fn, *args):
 	"""Open the pdf document, and apply the function, returning the results"""
