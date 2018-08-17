@@ -9,10 +9,10 @@
 ### Summary
 The script "at_search_terms_in_pdfs.py" looks in all \*.pdf files of a directory for occurences of the terms listed in a txt file. The full text is normalized (conversion to lower case and some basic blanks normalisation) and the script makes a copy of files in a separate folder when one or more terms are found (positive files). The others (negative files) are copied to another folder and corrupted files (or image pdf without OCR) are also copied to a separate folder. The script writes also a table (CSV format with ";" as separator) with the detailed results for each term  and each file provided (one line per file and one column per term). The script could also search the names of patients cited in the swiss pathology repoprts in order to change the name of file with the initials for the archival needs.
 
-The second version "at_search_terms_in_pdfs_and_modify_csv_xml_sources.py" was created to scan only the PDFs listed in the the CSV or XML files sent by the laboratories. It modify those files to keep only the PDFs with the positive results facilitating the import in NICER Stat tumor registry management software.
+The second version "at_search_terms_in_pdfs_and_modify_csv_xml_sources.py" was created to scan only the PDFs listed in the the CSV or XML files sent by the laboratories. It modify those files to keep only the PDFs with the positive results facilitating the import in NICER Stat cancer registry management software.
 
 
-### Evaluation of its use in a Tumour Registry
+### Evaluation of its use in a Cancer Registry
 This program was created and evluated at the Vaud Cancer Registry (RVT, https://www.iumsp.ch/rvt) Institute for Social and Preventive Medicine, University of Lausanne, Switzerland. The results of the evaluation was presented in a poster at the 2017 GRELL annual meeting in Brussels: https://www.grell-network.org/2017-brussels
 
  - Title: **Evaluation of an automated tool to identify positive cases from unstructured, free-text pathology reports in a Swiss Cancer Registry**
