@@ -41,3 +41,14 @@ The script could be executed from shell or directly by double click (Windows). T
 * The name of patient is stracted form PDF following some known structures in the text. The PDF is then renamed with the 3 first letters of the patient family name
 * The scripts generates a table (CSV as format and ";" as separator) with the details by term in the list. The sort order of colums is random. The fist line contains the names of each term in the list.
 * Ther's a line with the header "_filename" and the name of each term. The column "_total" contains the total number of "occurencies" for each term in each file. The "_ntotal" column contains the total number of different terms found in each PDF
+
+### Evaluation
+This program was created and evluated at the Registre vaudois des tumeurs (https://www.iumsp.ch/rvt). The results of the evaluation was presented in a poster at the 2017 GRELL annual meeting in Brussels: https://www.grell-network.org/2017-brussels
+
+ - Title: **Evaluation of an automated tool to identify positive cases from unstructured, free-text pathology reports in a Swiss Cancer Registry**
+ - Authors: Pablo Iriarte^1 ; Rafael Blanc Moya^2 ; Nadia Elia^3
+^1 Institute for Social and Preventive Medicine, University of Lausanne, Switzerland.
+^2 Vaud Cancer Registry, Institute for Social and Preventive Medicine, University of Lausanne, Switzerland
+^3 Institute of Global Health, University of Geneva, Geneva, Switzerland
+ - Abstract: https://github.com/pablogit/tdm/blob/master/Abstract_PI_RBM_NE.pdf
+ - Poster in PDF format: https://github.com/pablogit/tdm/blob/master/Poster_RVT_bruxelles_2017_final.pdf
