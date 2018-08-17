@@ -43,7 +43,7 @@ The script could be executed from shell or directly by double click (Windows). T
 * Ther's a line with the header "_filename" and the name of each term. The column "_total" contains the total number of "occurencies" for each term in each file. The "_ntotal" column contains the total number of different terms found in each PDF
 
 ### Evaluation of its use in a Tumour Registry
-This program was created and evluated at the Registre vaudois des tumeurs (https://www.iumsp.ch/rvt). The results of the evaluation was presented in a poster at the 2017 GRELL annual meeting in Brussels: https://www.grell-network.org/2017-brussels
+This program was created and evluated at the Registre Vaudois des Tumeurs (RVT, https://www.iumsp.ch/rvt) situated in Lausanne, Switzerland. The results of the evaluation was presented in a poster at the 2017 GRELL annual meeting in Brussels: https://www.grell-network.org/2017-brussels
 
  - Title: **Evaluation of an automated tool to identify positive cases from unstructured, free-text pathology reports in a Swiss Cancer Registry**
  - Authors: Pablo Iriarte^1 ; Rafael Blanc Moya^2 ; Nadia Elia^3
