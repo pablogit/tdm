@@ -47,8 +47,10 @@ This program was created and evluated at the Registre Vaudois des Tumeurs (RVT, 
 
  - Title: **Evaluation of an automated tool to identify positive cases from unstructured, free-text pathology reports in a Swiss Cancer Registry**
  - Authors: Pablo Iriarte<sup>1</sup> ; Rafael Blanc Moya<sup>2</sup> ; Nadia Elia<sup>3</sup>
+
 <sup>1</sup> Institute for Social and Preventive Medicine, University of Lausanne, Switzerland.
 <sup>2</sup> Vaud Cancer Registry, Institute for Social and Preventive Medicine, University of Lausanne, Switzerland
 <sup>3</sup> Institute of Global Health, University of Geneva, Geneva, Switzerland
+
  - Abstract: https://github.com/pablogit/tdm/blob/master/Abstract_PI_RBM_NE.pdf
  - Poster in PDF format: https://github.com/pablogit/tdm/blob/master/Poster_RVT_bruxelles_2017_final.pdf
