@@ -3,8 +3,8 @@
 ## Script python to search multiple terms in multiple PDFs
 
 ### Authors
-  * Pablo Iriarte, UNIGE/CHUV/IUMSP/BiUM 2018 - pablo@irairte.ch
-  * Jan Krause, CHUV/BiUM 2014 - jan@krause.net
+  * Pablo Iriarte, UNIGE/CHUV/IUMSP/BiUM 2014-2018, pablo@irairte.ch
+  * Jan Krause, CHUV/BiUM 2014, jan@krause.net
 
 ### Summary
 The script "at_search_terms_in_pdfs.py" looks in all \*.pdf files of a directory for occurences of the terms listed in a txt file. The full text is normalized (conversion to lower case and some basic blanks normalisation) and the script makes a copy of files in a separate folder when one or more terms are found (positive files). The others (negative files) are copied to another folder and corrupted files (or image pdf without OCR) are also copied to a separate folder. The script writes also a table (CSV format with ";" as separator) with the detailed results for each term  and each file provided (one line per file and one column per term). The script could also search the names of patients cited in the swiss pathology repoprts in order to change the name of file with the initials for the archival needs.
