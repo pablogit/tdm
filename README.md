@@ -9,7 +9,6 @@
 ### Summary
 The script "at_search_terms_in_pdfs.py" looks in all \*.pdf files of a directory for occurences of the terms listed in a txt file. The full text is normalized (conversion to lower case and some basic blanks normalisation) and the script makes a copy of files in a separate folder when one or more terms are found (positive files). The others (negative files) are copied to another folder and corrupted files (or image pdf without OCR) are also copied to a separate folder. The script writes also a table (CSV format with ";" as separator) with the detailed results for each term  and each file provided (one line per file and one column per term). The script could also search the names of patients cited in the swiss pathology repoprts in order to change the name of file with the initials for the archival needs.
 
-### Notes
 This script was originally created for the work "Blanc, X., Collet, T.-H., Auer, R., Fischer, R., Locatelli, I., Iriarte, P., Krause, J. Légaré, F. and Cornuz, J. (2014). Publication trends of shared decision making in 15 high impact medical journals: a full-text review with bibliometric analysis. BMC Medical Informatics and Decision Making, 14(1), 71. http://doi.org/10.1186/1472-6947-14-71
 
 
