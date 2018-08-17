@@ -13,13 +13,13 @@ Needs Python 2.7 pdfminer library : https://pypi.python.org/pypi/pdfminer/ (docu
 
 Instructions (French) :
 Le programme peut-être lancé depuis la console ou simplement en cliquant deux fois sur le fichier.
-Ensuite il y a 3 fenêtres de dialogue permettant de choisir les différents fichiers et emplacements :
+Ensuite il y a 2 fenêtres de dialogue permettant de choisir les différents fichiers et emplacements :
 
-1. Choisir le dossier contenant les PDFs à traiter :
+1. Choisir le dossier contenant les PDFs à traiter
 
 2. Choisir le dossier epour l'enregistrement des résultats
 
-	Il n'y a pas de limite dans le nombre de PDFs à traiter mais le temps d'execution est d'environ 500 PDFs par minute
+	Il n'y a pas de limite dans le nombre de PDFs à traiter mais le temps d'exécution est d'environ 500 PDFs par minute
 	Les PDFs positifs (au moins un des termes de la liste est trouvé) sont copiés dans deux dossier créé à l'emplacement choisi avec les noms "positifs", "negatifs" et "illisibles" ajouté au nom du dossier.
 	Cela écrit un tableau avec séparateur ";" et l'extension ".csv" à la fin le fichier, il peut être ouvert directement avec excel en cliquand deux fois
 	L'ordre des colonnes est aléatoire. Le tableau à une colonne par terme (le nom du terme figure sur la première ligne)
