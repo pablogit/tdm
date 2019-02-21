@@ -46,10 +46,10 @@ Needs Python 2.7 and the following libraries:
 
 ### Instructions
 The script could be executed from shell or directly by double click (Windows). Then 2 windows are prompted :
-1. Choice of PDFs folder to be scanned
-2. Choice of destination forlder for the results
+1. Choice of the terms list (txt)
+2. Choice of PDFs folder to be scanned
+3. Choice of destination forlder for the results
 
-* The term list has to be situated in the same folder of the script and called "terms.txt" with one term per line
 * Ther's no limit to the amount of PDFs to be scanned. the time execution time is about 500 PDFs per minute
 * The positive PDFs (at least one term is found) will be copied in a new folder called "POSITIFS"
 * The negative PDFs (any term was found) will be copied in a new folder called "NEGATIFS"
